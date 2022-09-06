@@ -1,7 +1,7 @@
-[![MasterHead](https://d6f6d0kpz0gyr.cloudfront.net/uploads/images-archive/Blog/Gifs/coding.gif)](https://rishavchanda.io)
+[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG6p19-lCN_Z6xx6RJK-avH6TfvkorbWQMJg&usqp=CAU)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Ewi Benard</h1>
 <h3 align="center">A student from Cameroon who is passionate about frontend developement</h3>
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/l3b.gif">
+<img align="right" alt="Coding" width="400"   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQg8OfJxgVxaQ5P0Bg1MGVFUur24xQGKsSR1g&usqp=CAU">
 
 <p align="left"> <a href="https://twitter.com/@thbo60" target="blank"><img src="https://img.shields.io/twitter/follow/@thbo60?logo=twitter&style=for-the-badge" alt="@thbo60" /></a> </p>
 
