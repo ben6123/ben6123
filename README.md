@@ -1,7 +1,7 @@
 <!--[![MasterHead]()](https://rishavchanda.io)-->
 <h1 align="center">Hi 👋, I'm Ewi Benard</h1>
 <h3 align="center">A student from Cameroon who is passionate about frontend developement</h3>
-<img align="right" alt="Coding" width="400" height="200"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG6p19-lCN_Z6xx6RJK-avH6TfvkorbWQMJg&usqp=CAU">
+<img align="right" alt="Coding" width="500" height="150"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG6p19-lCN_Z6xx6RJK-avH6TfvkorbWQMJg&usqp=CAU">
 
 <p align="left"> <a href="https://twitter.com/@thbo60" target="blank"><img src="https://img.shields.io/twitter/follow/@thbo60?logo=twitter&style=for-the-badge" alt="@thbo60" /></a> </p>
 
