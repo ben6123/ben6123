@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **FreeCodecamp**
 
-- 🌱 I’m currently learning **react.**
+- 🌱 I’m currently learning **react and flutter.**
 
 - 📫 How to reach me **ewiben6000@gmail.com**
 
