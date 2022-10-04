@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://twitter.com/@thbo60" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@thbo60" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ewi ben" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ewi ben" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ewi-ben-410628216/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ewi ben" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ewiben" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ewiben" height="30" width="40" /></a>
 </p>
 
